@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+@font-face {
+	font-family: "Lato"; 
+	src: url("../fonts/Lato-Regular.ttf") format("truetype"); 
+} 
+
+body{
+	
+}
+.container {
+	
+	max-width: 1240px;
+}
+.title-h1{
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+}
+.title-h2{
+	font-size: 32px;
+	font-family: 'Montserrat', sans-serif;
+}
+.title-h3{
+	font-size: 24px;
+	font-family: 'Montserrat', sans-serif;
+}
+.title-h4{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.f-body-large{
+	font-family: "Lato", sans-serif;
+		font-size: 32px;
+text-align: justify;
+}
+.f-body-def{
+	font-family: "Lato", sans-serif;
+		font-size: 24px;
+		text-align: justify;
+}
+.f-body-small{
+	font-family: "Lato", sans-serif;
+		font-size: 20px;
+		text-align: justify;
+}
+.f-body-smaller{
+	font-family: "Lato", sans-serif;
+		font-size: 18px;
+		text-align: justify;
+}
+
+.colo-black{
+	color: #000100 !important;
+}
+.colo-grey{
+	color: #A2A7A5 !important;
+}
+.colo-sgray{
+	color: #ECECEC !important;
+}
+.colo-white{
+	color: #FFFFFF !important;
+}
+.colo-prim{
+	color: #4F60FF !important;
+}
+.colo-sblue{
+	color: #9CB5FF !important;
+}
+.colo-dark_blue{
+	color: #002264 !important;
+}
+
